@@ -39,4 +39,23 @@ In This Weak You Should To Know
 You Can Study This Weak From ([Video 31 - 37](https://www.youtube.com/watch?v=2T_6fg2sdBE&list=PLfgCIULRQavzxY-IO2sO5Vj5x7C_tjW3R&index=32))
 
 In This Weak You Should To Know 
-- Storage - Arrays 1D & 2D
+- Pointers to Variable - Pointer and arrays
+- Pointer arithmetic - Substituting pointers for array notation 
+- Pointers and strings - Array of pointers - pointers to functions 
+
+#### Week 5 (Struct & Enum & Unions) :
+You Can Study This Weak From ([Video 38 - 49](https://www.youtube.com/watch?v=dlvzR15atHE&list=PLfgCIULRQavzxY-IO2sO5Vj5x7C_tjW3R&index=40))
+
+In This Weak You Should To Know 
+- Struct - Enum - Unions
+- Memory Management - Bit Manipulation
+- Arithmetic function
+- Manipulating String
+
+#### Week 6 (Data Structure) :
+You Can Study This Weak From ([Here](https://www.youtube.com/watch?v=OpIqt71NjMc&list=PLfgCIULRQavxpi-GYpkLt8_sFb2VlT6Zo))
+
+In This Weak You Should To Know 
+- Stack
+- Queue
+- Linked List
