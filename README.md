@@ -1,20 +1,41 @@
-# Embedded Systems Roadmap
+# Momentum SoftWare Roadmap
 
-Welcome to the Embedded Systems Roadmap! 🚀 This guide will help you kickstart your journey into the world of embedded systems with all the resources you need. Let's dive in!
+Welcome to the Momentum Software Roadmap! 🚀 This guide will help you kickstart your journey into the world of embedded systems & Ros with all the resources you need. Let's dive in!
 
 ## Roadmap Levels
 
 This roadmap is divided into three exciting levels:
 
-- **Level A**: The Beginning 🌱
-- **Level B**: Go Deeper 🌿
-- **Level C**: Mastering 🌳
+- **Beginner**: Introduction To Embedded System And C Programming & Data Structure
+- **Intermediate**: Embedded C & Interfacing
+- **Advanced**: ARM & Free RTOS
 
 ---
 
-## Level A: The Beginning 🌟
+## Beginner: 🌟
+### Weeks:
+- [Week1:](Weeks/Beginner/Week1.md) Git & GitHub
+- [Week2:](Weeks/Beginner/Week2.md) C Basics
+- [Week3:](Weeks/Beginner/Week3.md) C Functions
+- [Week4:](Weeks/Beginner/Week4.md) C Array & Strings
+- [Week5:](Weeks/Beginner/Week5.md) C Pointer
+- [Week6:](Weeks/Beginner/Week6.md) C User Defined & Data Types
+- [Week7:](Weeks/Beginner/Week7.md) Data Structure
 
-Start with the basics of software development, crucial for embedded systems. 
+## Intermediate: 🌟
+### Weeks:
+- [Week1:](Weeks/Intermediate/Week1.md) Embedded C
+- [Week2:](Weeks/Intermediate/Week2.md) Optimization & Booting Sequence
+- [Week3:](Weeks/Intermediate/Week3.md) Startup Code & Linker Script
+- [Week4:](Weeks/Intermediate/Week4.md) MicroController Architecture
+- [Week5:](Weeks/Intermediate/Week5.md) GPIO & LCD
+- [Week6:](Weeks/Intermediate/Week6.md) Interrupt & Exception Handling
+- [Week7:](Weeks/Intermediate/Week7.md) ADC
+- [Week8:](Weeks/Intermediate/Week8.md) UART
+- [Week9:](Weeks/Intermediate/Week9.md) SPI
+- [Week10:](Weeks/Intermediate/Week10.md) I2C
+- [Week11:](Weeks/Intermediate/Week10.md) TIMER
+
 
 ### 1. C Programming 💻
 
