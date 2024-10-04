@@ -7,13 +7,20 @@ Welcome to the Momentum Software Roadmap! This guide will help you navigate your
 
 ---
 
-## Basic Roadmap Levels
+## Roadmap Overview
 
 The Basic Road is divided into three levels:
 
-- **Beginner**: Introduction to Embedded Systems, C Programming, and Data Structures
-- **Intermediate**: Embedded C and Interfacing
-- **Advanced**: ARM & FreeRTOS
+- [**Beginner**](#beginner-🌟): Introduction to Embedded Systems, C Programming, and Data Structures
+- [**Intermediate**](#intermediate-🌟): Embedded C and Interfacing
+- [**Advanced**](#advanced-🌟): ARM & FreeRTOS
+
+---
+
+## Embedded Systems Applications :
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6c3187c-3dc1-4404-87b4-a85dba762ea3" width="500" alt="Beginner Roadmap Image">
+</p>
 
 ---
 
@@ -39,6 +46,10 @@ The Basic Road is divided into three levels:
 - **Data Structures**:
   - [Neso Academy - Data Structures Series](https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y)
   - [Mohamed Yousef](https://www.youtube.com/watch?v=OpIqt71NjMc&list=PLfgCIULRQavxpi-GYpkLt8_sFb2VlT6Zo&pp=iAQB)
+ 
+- **Git & Github**:
+  - [Elzero Web Schools](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+  - [Big Data](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUMZ2l0ICYgZ2l0aHVi)
 
 - **Tutorials**:
   - [W3Schools - C Programming](https://www.w3schools.com/c/)
@@ -48,6 +59,8 @@ The Basic Road is divided into three levels:
 - **Books**:
   - *C Programming Language, 2nd Edition*
   - *Effective C: An Introduction to Professional C Programming*
+  - *Grokking Algorithms*
+  - *Introduction to Algorithms*
 
 #### Weekly Breakdown
 - [**Week 1**:](Weeks/Beginner/Week1.md) Git & GitHub
@@ -70,6 +83,8 @@ The Basic Road is divided into three levels:
 
 1. **Bank Management System**
 2. **Clinic Management System**
+3. **Student System Record**
+4. **Payment Application**
 
 ---
 
@@ -98,8 +113,9 @@ The Basic Road is divided into three levels:
   - [JavaPoint - Embedded C](https://www.javatpoint.com/embedded-system-c-programming)
 
 - **Books**:
-  - *Simply Avr*
-  - *First Step With Embedded System*
+  - *Simply AVR*
+  - *First Steps with Embedded Systems*
+  - *AVR MAZIDI Book*
 
 #### Weekly Breakdown
 - [**Week 1**:](Weeks/Intermediate/Week1.md) Embedded C
@@ -116,14 +132,49 @@ The Basic Road is divided into three levels:
 
 ---
 
+### Advanced 🌟
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d75a0c6-d823-4e0c-9d9f-d5e8a14dd3e6" width="500" alt="Advanced Roadmap Image">
+</p>
+
+#### Objectives
+- Study the principles of Real-Time Operating Systems.
+- Learn about task scheduling, synchronization, and inter-process communication.
+- Dive into ARM architecture and instruction set.
+- Explore advanced ARM features such as Thumb mode and SIMD instructions.
+
+#### Resources
+- **Courses**:
+  - [RTOS Digikey](https://www.youtube.com/watch?v=F321087yYy4&list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz)
+  - [RTOS Ahmed Eldeep](https://www.youtube.com/watch?v=K0X9i8r7keI&list=PLPFp2zIiTnxVI2NdZ_yl5k2ilNCZEqOfB)
+  - [RTOS Udemy](https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/)
+  - [ARM Udemy](https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/)
+
+- **Tutorials**:
+  - [GeeksForGeeks - RTOS Tutorial](https://www.geeksforgeeks.org/introduction-to-real-time-operating-system-rto/)
+  - [Interrupt Tutorial](https://www.interrupt.memfault.com/)
+
+- **Books**:
+  - *Mastering FreeRTOS*
+  - *The Definitive Guide to ARM Cortex M3 and M4 Processors*
+  - *Real-Time Operating Systems Book 1*
+
+#### Weekly Breakdown
+- [**Week 1**:](Weeks/Advanced/Week1.md) ARM Architecture & Processors
+- [**Week 2**:](Weeks/Advanced/Week2.md) ARM Cortex M3 Architecture
+- [**Week 3**:](Weeks/Advanced/Week3.md) FreeRTOS
+- [**Week 4**:](Weeks/Advanced/Week4.md) FreeRTOS Tasks & Scheduler
+- [**Week 5**:](Weeks/Advanced/Week5.md) FreeRTOS Queue
+- [**Week 6**:](Weeks/Advanced/Week6.md) Advanced Timer
+- [**Week 7**:](Weeks/Advanced/Week7.md) DMA
+- [**Week 8**:](Weeks/Advanced/Week8.md) NVIC
+---
 ### After Completing Intermediate Level
 
 #### Projects
 
-1. **Calculator**
-2. **Smart Home**
-3. **Self-Parking Car**
-4. **Automated Greenhouse**
+1. **Task Scheduler In RTOS**
 
 ---
 
