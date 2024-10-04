@@ -13,7 +13,7 @@ The Basic Road is divided into three levels:
 
 - [**Beginner**](#beginner): Introduction to Embedded Systems, C Programming, and Data Structures
 - [**Intermediate**](#intermediate): Embedded C and Interfacing
-- [**Advanced**](#advanced-🌟): ARM & FreeRTOS
+- [**Advanced**](#advanced): ARM & FreeRTOS
 
 ---
 
@@ -88,7 +88,7 @@ The Basic Road is divided into three levels:
 
 ---
 
-### Intermediate 🌟
+### Intermediate
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4dd6556-74e9-4d2a-9edf-2e065c1001cb" width="500" alt="Intermediate Roadmap Image">
@@ -132,7 +132,7 @@ The Basic Road is divided into three levels:
 
 ---
 
-### Advanced 🌟
+### Advanced
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d75a0c6-d823-4e0c-9d9f-d5e8a14dd3e6" width="500" alt="Advanced Roadmap Image">
