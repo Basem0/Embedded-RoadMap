@@ -18,7 +18,10 @@ The Basic Road is divided into three levels:
 ---
 
 ### Beginner 🌟
-![image](https://github.com/user-attachments/assets/1df87a3c-4b26-4b1c-a04f-da3048f6e991)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1df87a3c-4b26-4b1c-a04f-da3048f6e991" width="500" alt="Beginner Roadmap Image">
+</p>
 
 #### Objectives
 - Grasp the fundamentals of the C programming language.
@@ -71,6 +74,33 @@ The Basic Road is divided into three levels:
 ---
 
 ### Intermediate 🌟
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b4dd6556-74e9-4d2a-9edf-2e065c1001cb" width="500" alt="Intermediate Roadmap Image">
+</p>
+
+#### Objectives
+- Explore Microcontroller Unit (MCU) architecture principles.
+- Explore More About Processor and Different types of Memories.
+- Learn how to interface peripherals with microcontrollers.
+- Explore communication protocols like UART, SPI, and I2C.
+- Implement sensor and actuator interfacing.
+
+#### Resources
+- **Courses**:
+  - [Embedded C - Mahmoud Karem](https://www.youtube.com/watch?v=bCSeXFRBhLg&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O)
+  - [Embedded C - SM Academy](https://www.youtube.com/watch?v=5NkmXqkdJyY&list=PL_zvrXFdKgZobLRX1MuFdfCWzo5cetTTN)
+  - [AVR - Walid Issa](https://www.youtube.com/watch?v=pWavnF7P0EQ&list=PLww54WQ2wa5qWSTU7MYqjN0jHNaWuoXUk)
+  - [FWD - Embedded Course](https://drive.google.com/drive/folders/1dfWZdEl2GdaCZ7xlDE3Tmj_5uUiMa8me)
+
+- **Tutorials**:
+  - [GeeksForGeeks - Embedded C](https://www.geeksforgeeks.org/embedded-c/)
+  - [JavaPoint - Embedded C](https://www.javatpoint.com/embedded-system-c-programming)
+
+- **Books**:
+  - *Simply Avr*
+  - *First Step With Embedded System*
+
 #### Weekly Breakdown
 - [**Week 1**:](Weeks/Intermediate/Week1.md) Embedded C
 - [**Week 2**:](Weeks/Intermediate/Week2.md) Optimization & Booting Sequence
@@ -83,6 +113,17 @@ The Basic Road is divided into three levels:
 - [**Week 9**:](Weeks/Intermediate/Week9.md) SPI
 - [**Week 10**:](Weeks/Intermediate/Week10.md) I2C
 - [**Week 11**:](Weeks/Intermediate/Week11.md) Timer
+
+---
+
+### After Completing Intermediate Level
+
+#### Projects
+
+1. **Calculator**
+2. **Smart Home**
+3. **Self-Parking Car**
+4. **Automated Greenhouse**
 
 ---
 
