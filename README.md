@@ -57,6 +57,19 @@ The Basic Road is divided into three levels:
 
 ---
 
+### After Completing Beginner Level
+
+#### Problem Solving
+
+- **Solve Basic & Intermediate C problems** on [HackerRank](https://www.hackerrank.com/domains/c)
+
+#### Projects
+
+1. **Bank Management System**
+2. **Clinic Management System**
+
+---
+
 ### Intermediate 🌟
 #### Weekly Breakdown
 - [**Week 1**:](Weeks/Intermediate/Week1.md) Embedded C
