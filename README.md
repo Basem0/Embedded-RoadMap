@@ -11,7 +11,7 @@ Welcome to the Momentum Software Roadmap! This guide will help you navigate your
 
 The Basic Road is divided into three levels:
 
-- [**Beginner**](https://github.com/Basem0/Embedded-RoadMap/main/README.md#beginner): Introduction to Embedded Systems, C Programming, and Data Structures
+- [**Beginner**](https://github.com/Basem0/Embedded-RoadMap/blob/main/README.md#beginner): Introduction to Embedded Systems, C Programming, and Data Structures
 - [**Intermediate**](#intermediate): Embedded C and Interfacing
 - [**Advanced**](#advanced-🌟): ARM & FreeRTOS
 
