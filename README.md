@@ -1,9 +1,6 @@
-# Momentum Software Roadmap 🚀
+# Cat Reloaded Embedded Systems Roadmap 🚀
 
-Welcome to the Momentum Software Roadmap! This guide will help you navigate your journey into the world of Embedded Systems and ROS with all the resources you need. The roadmap is divided into two parts:
-
-- **Basic Road**
-- **Bonus Road**
+Welcome to the Cat Reloaded Embedded Systems Roadmap! This guide will help you navigate your journey into the world of Embedded Systems with all the resources you need.
 
 ---
 
@@ -66,11 +63,18 @@ The Basic Road is divided into three levels:
 - [**Week 1**:](Weeks/Beginner/Week1.md) Git & GitHub
 - [**Week 2**:](Weeks/Beginner/Week2.md) C Basics
 - [**Week 3**:](Weeks/Beginner/Week3.md) C Functions
-- [**Week 4**:](Weeks/Beginner/Week4.md) C Arrays & Strings
+- [**Week 4**:](Weeks/Beginner/Week4.md) C Arrays
 - [**Week 5**:](Weeks/Beginner/Week5.md) C Pointers
-- [**Week 6**:](Weeks/Beginner/Week6.md) User-Defined Types & Data Structures
-- [**Week 7**:](Weeks/Beginner/Week7.md) Data Structures Overview
-
+- [**Week 6**:](Weeks/Beginner/Week6.md) C String Literals
+- [**Week 7**:](Weeks/Beginner/Week7.md) C Structure & Enumartions
+- [**Week 8**:](Weeks/Beginner/Week8.md) C Project
+- [**Week 9**:](Weeks/Beginner/Week9.md) Stack 
+- [**Week 10**:](Weeks/Beginner/Week10.md) Queue
+- [**Week 11**:](Weeks/Beginner/Week11.md) Linked List
+- [**Week 12**:](Weeks/Beginner/Week12.md) Sorting Algorithm
+- [**Week 13**:](Weeks/Beginner/Week13.md) Searching Algorithm
+- [**Week 14**:](Weeks/Beginner/Week14.md) C Revision
+  
 ---
 
 ### After Completing Beginner Level
