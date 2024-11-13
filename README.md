@@ -122,17 +122,19 @@ The Basic Road is divided into three levels:
   - *AVR MAZIDI Book*
 
 #### Weekly Breakdown
-- [**Week 1**:](Weeks/Intermediate/Week1.md) Embedded C
+- [**Week 1**:](Weeks/Intermediate/Week1.md) Embedded C & Comp0ilation Process
 - [**Week 2**:](Weeks/Intermediate/Week2.md) Optimization & Booting Sequence
 - [**Week 3**:](Weeks/Intermediate/Week3.md) Startup Code & Linker Script
 - [**Week 4**:](Weeks/Intermediate/Week4.md) Microcontroller Architecture
-- [**Week 5**:](Weeks/Intermediate/Week5.md) GPIO & LCD
-- [**Week 6**:](Weeks/Intermediate/Week6.md) Interrupts & Exception Handling
-- [**Week 7**:](Weeks/Intermediate/Week7.md) ADC
-- [**Week 8**:](Weeks/Intermediate/Week8.md) UART
-- [**Week 9**:](Weeks/Intermediate/Week9.md) SPI
-- [**Week 10**:](Weeks/Intermediate/Week10.md) I2C
-- [**Week 11**:](Weeks/Intermediate/Week11.md) Timer
+- [**Week 5**:](Weeks/Intermediate/Week5.md) GPIO & Led / Button Interfacing
+- [**Week 6**:]() KeyPad & Lcd Driver
+- [**Week 7**:]() Simple Calculator Project
+- [**Week 8**:](Weeks/Intermediate/Week6.md) Interrupts & Exception Handling
+- [**Week 9**:](Weeks/Intermediate/Week7.md) ADC
+- [**Week 10**:](Weeks/Intermediate/Week8.md) UART
+- [**Week 11**:](Weeks/Intermediate/Week9.md) SPI
+- [**Week 12**:](Weeks/Intermediate/Week10.md) I2C
+- [**Week 13**:](Weeks/Intermediate/Week11.md) Timer
 
 ---
 
@@ -153,7 +155,7 @@ The Basic Road is divided into three levels:
   - [RTOS Digikey](https://www.youtube.com/watch?v=F321087yYy4&list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz)
   - [RTOS Ahmed Eldeep](https://www.youtube.com/watch?v=K0X9i8r7keI&list=PLPFp2zIiTnxVI2NdZ_yl5k2ilNCZEqOfB)
   - [RTOS Udemy](https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/)
-  - [ARM Udemy](https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/)
+  - [Youtube - Ahmed Rezk](https://www.youtube.com/playlist?list=PLEPINOrvANGfzN1XxxIsaJQDfjQKGE7bU)
 
 - **Tutorials**:
   - [GeeksForGeeks - RTOS Tutorial](https://www.geeksforgeeks.org/introduction-to-real-time-operating-system-rto/)
@@ -165,12 +167,12 @@ The Basic Road is divided into three levels:
   - *Real-Time Operating Systems Book 1*
 
 #### Weekly Breakdown
-- [**Week 1**:](Weeks/Advanced/Week1.md) ARM Architecture & Processors
-- [**Week 2**:](Weeks/Advanced/Week2.md) ARM Cortex M3 Architecture
-- [**Week 3**:](Weeks/Advanced/Week3.md) FreeRTOS
-- [**Week 4**:](Weeks/Advanced/Week4.md) FreeRTOS Tasks & Scheduler
-- [**Week 5**:](Weeks/Advanced/Week5.md) FreeRTOS Queue
-- [**Week 6**:](Weeks/Advanced/Week6.md) Advanced Timer
+- [**Week 1**:](Weeks/Advanced/Week1.md) Intro to RTOS
+- [**Week 2**:](Weeks/Advanced/Week2.md) RTOS terminologies
+- [**Week 3**:](Weeks/Advanced/Week3.md) Inter Task Communication and Task Synchronization
+- [**Week 4**:](Weeks/Advanced/Week4.md) FreeRTOS Implementation
+- [**Week 5**:](Weeks/Advanced/Week5.md) Scheduling
+- [**Week 6**:](Weeks/Advanced/Week6.md) Run Time Analysis and RTOS Issues
 - [**Week 7**:](Weeks/Advanced/Week7.md) DMA
 - [**Week 8**:](Weeks/Advanced/Week8.md) NVIC
 ---
