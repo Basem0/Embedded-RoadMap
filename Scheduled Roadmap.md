@@ -31,7 +31,7 @@ The journey is divided into three progressive levels:
 
 ---
 
-## Beginner Level
+# Beginner Level
 ### Week 1 : GitHub
 <details>
 <summary>
@@ -273,67 +273,243 @@ Build A Repo For Upload Tasks
 
 ---
 
-## Intermediate Level
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b4dd6556-74e9-4d2a-9edf-2e065c1001cb" width="500" alt="Intermediate Roadmap Image">
-</p>
+# Intermediate Level
 
-### Objectives
-- Explore Microcontroller Unit (MCU) architecture principles.
-- Explore More About Processor and Different types of Memories.
-- Learn how to interface peripherals with microcontrollers.
-- Explore communication protocols like UART, SPI, and I2C.
-- Implement sensor and actuator interfacing.
+### Week 1 : Embedded C & Compilation Process
+<details>
+<summary>
+  Content
+</summary>
+  
 
-### Resources
-- **Courses**:
-  - [🎥 Embedded C - Mahmoud Karem](https://www.youtube.com/watch?v=bCSeXFRBhLg&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O)
-  - [🎥 Embedded C - SM Academy](https://www.youtube.com/watch?v=5NkmXqkdJyY&list=PL_zvrXFdKgZobLRX1MuFdfCWzo5cetTTN)
-  - [🎥 AVR - Walid Issa](https://www.youtube.com/watch?v=pWavnF7P0EQ&list=PLww54WQ2wa5qWSTU7MYqjN0jHNaWuoXUk)
-  - [🎥 FWD - Embedded Course](https://drive.google.com/drive/folders/1dfWZdEl2GdaCZ7xlDE3Tmj_5uUiMa8me)
-  - [🎥 NTI - AVR Course]()
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week1](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
 
-- **Tutorials**:
-  - [📑 GeeksForGeeks - Embedded C](https://www.geeksforgeeks.org/embedded-c/)
-  - [📑 JavaPoint - Embedded C](https://www.javatpoint.com/embedded-system-c-programming)
-- **Books**:
-  - *📑 Simply AVR*
-  - *📑 First Steps with Embedded Systems*
-  - *📑 AVR MAZIDI Book*
 
----
 
-## Advanced Level
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0d75a0c6-d823-4e0c-9d9f-d5e8a14dd3e6" width="500" alt="Advanced Roadmap Image">
-</p>
+### Week 2 : Optimization & Booting Sequence
+<details>
+<summary>
+  Content
+</summary>
+  
 
-### Objectives
-- Study the principles of Real-Time Operating Systems.
-- Learn about task scheduling, synchronization, and inter-process communication.
-- Dive into ARM architecture and instruction set.
-- Explore advanced ARM features such as Thumb mode and SIMD instructions.
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week2](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
 
-### Resources
-- **Courses**:
-  - [🎥 RTOS Digikey](https://www.youtube.com/watch?v=F321087yYy4&list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz)
-  - [🎥 RTOS Ahmed Eldeep](https://www.youtube.com/watch?v=K0X9i8r7keI&list=PLPFp2zIiTnxVI2NdZ_yl5k2ilNCZEqOfB)
-  - [🎥 RTOS Udemy](https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/)
-  - [🎥 Youtube - Ahmed Rezk](https://www.youtube.com/playlist?list=PLEPINOrvANGfzN1XxxIsaJQDfjQKGE7bU)
 
-- **Tutorials**:
-  - [📑 GeeksForGeeks - RTOS Tutorial](https://www.geeksforgeeks.org/introduction-to-real-time-operating-system-rto/)
-  - [📑 Interrupt Tutorial](https://www.interrupt.memfault.com/)
-- **Books**:
-  - *📑 Mastering FreeRTOS*
-  - *📑 The Definitive Guide to ARM Cortex M3 and M4 Processors*
-  - *📑 Real-Time Operating Systems Book 1*
+### Week 3 : Startup Code & Linker Script
+<details>
+<summary>
+  Content
+</summary>
+  
 
----
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week3](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
 
-### After Completing Intermediate Level
+### Week 4 : Microcontroller Architecture
+<details>
+<summary>
+  Content
+</summary>
+  
 
-#### Projects
-1. **Task Scheduler In RTOS**
-   
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week4](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
+
+### Week 5 : GPIO & Led / Button Interfacing
+<details>
+<summary>
+  Content
+</summary>
+  
+
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week5](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
+
+### Week 6 : KeyPad & Lcd Driver
+<details>
+<summary>
+  Content
+</summary>
+  
+
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+ [Week6](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
+
+### Week 7 : Project
+<details>
+<summary>
+  Content
+</summary>
+  
+  
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+- Simple Calculator Project
+- Login System Project
+</details>
+
+### Week 8 : Interrupts & Exception Handling
+<details>
+<summary>
+  Content
+</summary>
+  
+ 
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week8](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
+
+### Week 9 : ADC
+<details>
+<summary>
+  Content
+</summary>
+  
+  
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week9](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
+
+### Week 10 : USART
+<details>
+<summary>
+  Content
+</summary>
+  
+  
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week10](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
+
+### Week 11 : SPI
+<details>
+<summary>
+  Content
+</summary>
+  
+  
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week11](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
+
+### Week 12 : I2C
+<details>
+<summary>
+  Content
+</summary>
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week12](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
+
+### Week 13 : Timer
+<details>
+<summary>
+  Content
+</summary>
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week13](https://drive.google.com/drive/folders/1oa4n3rMZn7MzTbe3Hsa6QOTUiwLry3uU?usp=sharing)
+</details>
+
+### Week 14 : Revision
+<details>
+<summary>
+  Content
+</summary>
+  No Content
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+No Task
+</details>
+
+
 ---
