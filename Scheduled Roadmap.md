@@ -50,7 +50,7 @@ The journey is divided into three progressive levels:
 
 | Weeks     | Content             |   Source                 | Task                |
 |-----------|---------------------|--------------------------|---------------------|
-| **Week1** | GitHub              | [🎥 Big Data](https://youtu.be/Q6G-J54vgKc?si=hgdRAcCRYwEIMCAR)  | Build A Repo For Upload Tasks
+| **Week1** | GitHub              | [🎥 Elzero PlayList](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)  | Build A Repo For Upload Tasks
 | **Week2** | C - Basics          | Video 1 : 60 &nbsp; [🎥 Niso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)          |  [Week2](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
 | **Week3** | C - Functions       | Video 61 : 85 &nbsp; [🎥 Niso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)         | [Week3](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
 | **Week4** | C - Arrays          |  Video 86 : 100 &nbsp; [🎥 Niso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)          | [Week4](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
