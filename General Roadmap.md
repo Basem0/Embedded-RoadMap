@@ -1,26 +1,37 @@
-# Cat Reloaded Embedded Systems Roadmap 🚀
+<h1 align="center">General Roadmap</h1> 
 
-Welcome to the Cat Reloaded Embedded Systems Roadmap! This guide will help you navigate your journey into the world of Embedded Systems with all the resources you need.
+Here you have the full roadmap divided into three levels as headlines and each one has some suggested courses
+
+---
+
+
+## 🚀 **Overview**
+
+The journey is divided into three progressive levels:
+
+#### 🟢 **Beginner**
+*Introduction to Embedded Systems, C Programming, and Data Structures*
+
+#### 🔵 **Intermediate**
+*Embedded C, Microcontroller Interfacing, and Communication Protocols*
+
+#### 🔴 **Advanced**
+*ARM Architecture, FreeRTOS, and Real-Time Systems*
+
+---
+
+### 📅 **Learning Path**
+
+| Level         | Key Topics                                        | Suggested Duration |
+|---------------|---------------------------------------------------|---------------------|
+| **Beginner**  |C Basics - Pointers - Data Structures - Compilation Process        | 10-15 Weeks          |
+| **Intermediate** | Embedded C + GPIO - INTERRUPT - ADC - Timers - Communication Protocols    | 11-15 Weeks          |
+| **Advanced**  | ARM & FreeRTOS             | 8-12 Weeks         |
 
 
 ---
 
-## Roadmap Overview
-The Basic Road is divided into three levels:
-- [**Beginner**](#beginner) :         Introduction to Embedded Systems, C Programming, and Data Structures
-- [**Intermediate**](#intermediate) : Embedded C and Interfacing
-- [**Advanced**](#advanced) :         ARM & FreeRTOS
-  
----
-
-## Embedded Systems Applications :
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f6c3187c-3dc1-4404-87b4-a85dba762ea3" width="500" alt="Beginner Roadmap Image">
-</p>
-
----
-
-### Beginner
+## Beginner Level
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1df87a3c-4b26-4b1c-a04f-da3048f6e991" width="500" alt="Beginner Roadmap Image">
 </p>
@@ -32,7 +43,7 @@ The Basic Road is divided into three levels:
 - Study essential data structures like arrays, linked lists, stacks, and queues.
 - Understand algorithms for searching and sorting.
 
-#### Resources
+### Resources
 - **C Programming**:
   - [🎥 Neso Academy - C Programming Series](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
   - [🎥 Mohamed Yousef](https://www.youtube.com/watch?v=wuZEemcTTEs&list=PLfgCIULRQavzxY-IO2sO5Vj5x7C_tjW3R)
@@ -69,19 +80,19 @@ The Basic Road is divided into three levels:
 
 ---
 
-### Intermediate
+## Intermediate Level
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4dd6556-74e9-4d2a-9edf-2e065c1001cb" width="500" alt="Intermediate Roadmap Image">
 </p>
 
-#### Objectives
+### Objectives
 - Explore Microcontroller Unit (MCU) architecture principles.
 - Explore More About Processor and Different types of Memories.
 - Learn how to interface peripherals with microcontrollers.
 - Explore communication protocols like UART, SPI, and I2C.
 - Implement sensor and actuator interfacing.
 
-#### Resources
+### Resources
 - **Courses**:
   - [🎥 Embedded C - Mahmoud Karem](https://www.youtube.com/watch?v=bCSeXFRBhLg&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O)
   - [🎥 Embedded C - SM Academy](https://www.youtube.com/watch?v=5NkmXqkdJyY&list=PL_zvrXFdKgZobLRX1MuFdfCWzo5cetTTN)
@@ -99,18 +110,18 @@ The Basic Road is divided into three levels:
 
 ---
 
-### Advanced
+## Advanced Level
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d75a0c6-d823-4e0c-9d9f-d5e8a14dd3e6" width="500" alt="Advanced Roadmap Image">
 </p>
 
-#### Objectives
+### Objectives
 - Study the principles of Real-Time Operating Systems.
 - Learn about task scheduling, synchronization, and inter-process communication.
 - Dive into ARM architecture and instruction set.
 - Explore advanced ARM features such as Thumb mode and SIMD instructions.
 
-#### Resources
+### Resources
 - **Courses**:
   - [🎥 RTOS Digikey](https://www.youtube.com/watch?v=F321087yYy4&list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz)
   - [🎥 RTOS Ahmed Eldeep](https://www.youtube.com/watch?v=K0X9i8r7keI&list=PLPFp2zIiTnxVI2NdZ_yl5k2ilNCZEqOfB)
