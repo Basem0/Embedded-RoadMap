@@ -24,11 +24,11 @@ So let's start
   
 ### ![Cat Reoloaded Embedded System](https://img.shields.io/badge/Embedded_System-Roadmap-brightgreen)
 
-<a href="#general-roadmap">
+<a href="https://github.com/Basem0/Embedded-RoadMap/blob/main/General%20Roadmap.md">
   <img src="https://img.shields.io/badge/General%20Roadmap-Purple?style=for-the-badge&logo=data:image/svg+xml;base64,..." alt="General Roadmap" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#scheduled-roadmap">
+<a href="https://github.com/Basem0/Embedded-RoadMap/blob/main/Scheduled%20Roadmap.md">
   <img src="https://img.shields.io/badge/Scheduled%20Roadmap-Blue?style=for-the-badge&logo=data:image/svg+xml;base64,..." alt="Scheduled Roadmap" />
 </a>
 
