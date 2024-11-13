@@ -1,5 +1,14 @@
 # Cat Reoloaded Embedded System Roadmap
 
+Welcome to the Cat Reloaded Embedded Systems Roadmap! This guide will help you navigate your journey into the world of Embedded Systems with all the resources you need.
+> Notice that any roadmap is not sacred. You may find better alternatives to the suggested courses from your perspective. However, this roadmap contains all the core topic and you should go through all of them.
+So let's start
+
+
+ ## :computer: What is an Embedded System?
+### An embedded system is a microprocessor-based computer hardware system with software that is designed to perform a dedicated function, either as an independent system or as a part of a large system.
+
+ 
 📈 **Click on either roadmap** ⬇️
 
 ---
