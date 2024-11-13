@@ -37,6 +37,6 @@
 ## 📂 Files Overview
 
 - **General Roadmap**: Contains the full roadmap as headlines, with some suggested courses.
-- **Scheduled Roadmap** (recommended): The same roadmap but broken down into specific courses organized into weekly sections, assuming a study rate of 7 hours per week.
+- **Scheduled Roadmap** (recommended): The same roadmap but broken down into specific courses organized into weekly sections, assuming a study rate of 10 hours per week.
 
 ---
