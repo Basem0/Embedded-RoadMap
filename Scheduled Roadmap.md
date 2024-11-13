@@ -32,55 +32,244 @@ The journey is divided into three progressive levels:
 ---
 
 ## Beginner Level
-### Week 1 : C - Variables & Operators 
+### Week 1 : GitHub
 <details>
 <summary>
   Content
 </summary>
-  Video 1 : 36  [Niso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+  
+  [🎥 Big Data](https://youtu.be/Q6G-J54vgKc?si=hgdRAcCRYwEIMCAR)
+  
 </details>
 <details>
 <summary>
   Task
 </summary>
   
-[Task-1 Notebook](https://colab.research.google.com/drive/11gNjyWxI1JShycED8Zmr6VlNqSjQehUM)
+Build A Repo For Upload Tasks
 </details>
-<br><br>
-### Resources
-- **C Programming**:
-  - [🎥 Neso Academy - C Programming Series](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
-  - [🎥 Mohamed Yousef](https://www.youtube.com/watch?v=wuZEemcTTEs&list=PLfgCIULRQavzxY-IO2sO5Vj5x7C_tjW3R)
-  - [🎥 BRO Code - Crash Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=11s&pp=ygUZYyBwcm9ncmFtbWluZyBmdWxsIGNvdXJzZQ%3D%3D)
-- **Data Structures**:
-  - [🎥 Neso Academy - Data Structures Series](https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y)
-  - [🎥 Mohamed Yousef](https://www.youtube.com/watch?v=OpIqt71NjMc&list=PLfgCIULRQavxpi-GYpkLt8_sFb2VlT6Zo&pp=iAQB)
-  - [🎥 Walid Issa]()
- 
-- **Git & Github**:
-  - [🎥 Elzero Web Schools](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
-  - [🎥 Big Data](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUMZ2l0ICYgZ2l0aHVi)
-- **Tutorials**:
-  - [📑 W3Schools - C Programming](https://www.w3schools.com/c/)
-  - [📑 GeeksForGeeks - C Programming](https://www.geeksforgeeks.org/c-programming-language/)
-  - [📑 TutorialsPoint - C Programming](https://www.tutorialspoint.com/cprogramming/index.htm)
-- **Books**:
-  - *📑 C Programming Language, 2nd Edition*
-  - *📑 Effective C: An Introduction to Professional C Programming*
-  - *📑 Grokking Algorithms*
-  - *📑 Introduction to Algorithms*
 
----
 
-### After Completing Beginner Level
 
-#### Problem Solving
-- **Solve Basic & Intermediate C problems** on [HackerRank](https://www.hackerrank.com/domains/c)
-#### Projects
-1. **Bank Management System**
-2. **Clinic Management System**
-3. **Student System Record**
-4. **Payment Application**
+### Week 2 : C - Basics
+<details>
+<summary>
+  Content
+</summary>
+  
+  Video 1 : 60 [🎥 Niso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week2](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
+
+### Week 3 : C - Functions
+<details>
+<summary>
+  Content
+</summary>
+  
+  Video 61 : 85 [🎥 Niso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week3](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
+### Week 4 : C - Arrays
+<details>
+<summary>
+  Content
+</summary>
+  
+  Video 86 : 100 [🎥 Niso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week4](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
+### Week 5 : C - Pointers
+<details>
+<summary>
+  Content
+</summary>
+  
+  Video 101 : 126 [🎥 Niso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week5](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
+### Week 6 : C - String Literals
+<details>
+<summary>
+  Content
+</summary>
+  
+  Video 127 : 149 [🎥 Niso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week6](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
+### Week 7 : C - Structure & Enumartions
+<details>
+<summary>
+  Content
+</summary>
+  
+  Video 150 : 168 [🎥 Niso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week7](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
+### Week 8 : C - Project
+<details>
+<summary>
+  Content
+</summary>
+  
+ No Content
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+- Bank Management System
+- Clinic Management System
+- Student System Record
+- Payment Application
+</details>
+
+### Week 9 : Stack
+<details>
+<summary>
+  Content
+</summary>
+  
+  Video 1 : 3 [🎥 Mohamed Yousef](https://www.youtube.com/playlist?list=PLfgCIULRQavxpi-GYpkLt8_sFb2VlT6Zo)
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week9](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
+### Week 10 : Queue
+<details>
+<summary>
+  Content
+</summary>
+  
+  Video 4 : 6 [🎥 Mohamed Yousef](https://www.youtube.com/playlist?list=PLfgCIULRQavxpi-GYpkLt8_sFb2VlT6Zo)
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week10](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
+### Week 11 : Linked List
+<details>
+<summary>
+  Content
+</summary>
+  
+  Video 7 : 11 [🎥 Mohamed Yousef](https://www.youtube.com/playlist?list=PLfgCIULRQavxpi-GYpkLt8_sFb2VlT6Zo)
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week11](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
+### Week 12 : Sorting Algorithm
+<details>
+<summary>
+  Content
+</summary>
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week12](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
+### Week 13 : Searching Algorithm
+<details>
+<summary>
+  Content
+</summary>
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week13](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
+### Week 14 : C - Revision
+<details>
+<summary>
+  Content
+</summary>
+  
+</details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Week14](https://drive.google.com/drive/folders/1N6RzzIOYKx8dWsqop05IlLmWBAMBOIRH?usp=sharing)
+</details>
+
 
 ---
 
